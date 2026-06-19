@@ -1,0 +1,9 @@
+# ModelSim/Questa compiled library
+work/
+
+# Simulation artifacts
+transcript
+*.wlf
+vsim.wlf
+*.vstf
+*.log
